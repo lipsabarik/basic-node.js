@@ -269,12 +269,18 @@
 // let username="@"+fullname+fullname.length
 // console.log("username")
 //arrays
- let marks=[98,79,56,47,87]
-  console.log(marks)
+//  let marks=[98,79,56,47,87]
+//   console.log(marks)
 // console.log(marks.length)//property
 //  let heroes=["iroman","thor","hulk","shaktiman"]
 //  console.log(heroes)
- marks[3]
-// arrays indices
+// //  marks[3]
+// // LOOPING OVER ARRAYS
+// let heroes=["iroman","thor","hulk","shaktiman"]
+// console.log(heroes)
+// console.log(heroes[1])
+// forloop
+for( let i)
+
 
 
