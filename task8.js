@@ -6,6 +6,5 @@ function largest(arr){
         }
 
     }
-    let arr = [10, 20, 4, 556, 4891, 1, 12, 46];
     return max;
 }

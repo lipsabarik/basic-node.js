@@ -1,1 +1,14 @@
-task20.js
+length()
+concat()
+charCodeAT
+charAT()
+substring()
+at()
+slice()
+toUpperCase()
+toLowerCase()
+trim(), trimstart(),trimeEnd()
+repeat()
+replaceAll()
+split()
+
